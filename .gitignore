@@ -95,3 +95,9 @@ typings/
 
 # VS Code files
 .vscode/
+
+# Claude Code
+.claude/
+
+# asdf
+.tool-versions
